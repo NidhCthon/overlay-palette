@@ -1,0 +1,22 @@
+{
+  "id": "overlay-palette",
+  "title": "Overlay Palette",
+  "description": "A GM menu for full-scene animated overlays. Browse your effect folders as cards with hover previews, pick a colour and intensity, and click to cover the scene above the tokens. Fade overlays in and out from an In this scene list.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14.365",
+    "verified": "14.368"
+  },
+  "authors": [
+    {
+      "name": "NidhCthon"
+    }
+  ],
+  "esmodules": [
+    "scripts/overlay-palette.js"
+  ],
+  "styles": [
+    "styles/overlay-palette.css"
+  ],
+  "license": "LICENSE"
+}
